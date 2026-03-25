@@ -1,6 +1,7 @@
 [canvas_url]: https://canvas.uchicago.edu/courses/71728
 [jon_oh]: https://calendar.app.google/yto22DQqDT1KxLDT8
 [pierre_oh]: https://outlook.office.com/bookwithme/user/3910050830734cb18fb847763908a014@UCHICAGO.EDU/meetingtype/CfyKpQl_sEeryUx6U77lpg2?bookingcode=ebe4ae02-f6bc-4f74-bfa1-bc437e74b10c&anonymous&ep=mlink
+[hailey_oh]: https://calendar.app.google/Vt6CkKcYNHFGkQpJ8
 
 # Large-Scale Computing for the Social Sciences
 
@@ -11,7 +12,7 @@
 | Jon Clindaniel                                                                                                                           | Hailey Hansen         | Pierre Loertscher        | Location: 1155 E. 60th Street, Rm. 140C |
 | 1155 E. 60th Street, Rm. 215                                                                                                             |                       |                          | Monday/Wednesday Lecture, Friday Lab    |
 | jclindaniel@uchicago.edu                                                                                                                 | hailhan@uchicago.edu  | ploertscher@uchicago.edu | 3:00-4:20 PM (CT)                       |
-| **Office Hours:** Drop-In (No appointment needed): Tuesday 2:00-4:00pm <br/><br/> [Schedule an Appointment][jon_oh] Thursday 2:00-4:00pm | **Office Hours:** TBD | **Office Hours:** <br/> Monday 4.30-6.30pm <br/> [Schedule an Appointment][pierre_oh] (15' each, book multiple in succession if you need more time) <br/> Room: 1155 E. 60th St., Rm 222    | [Canvas Course Site][canvas_url]        |
+| **Office Hours:** Drop-In (No appointment needed): Tuesday 2:00-4:00pm <br/><br/> [Schedule an Appointment][jon_oh] Thursday 2:00-4:00pm | **Office Hours:** <br/> Monday 4.30-6.30pm <br/> [Schedule an Appointment][hailey_oh] (15' each, book multiple in succession if you need more time) <br/> Room: 1155 E. 60th St., Rm 222 | **Office Hours:** <br/> Monday 4.30-6.30pm <br/> [Schedule an Appointment][pierre_oh] (15' each, book multiple in succession if you need more time) <br/> Room: 1155 E. 60th St., Rm 222    | [Canvas Course Site][canvas_url]        |
 
 ## Course Description
 
