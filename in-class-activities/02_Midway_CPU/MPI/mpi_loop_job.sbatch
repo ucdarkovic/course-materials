@@ -16,5 +16,5 @@ module load python/anaconda-2022.05 mpich/3.2.1
 # time different configurations
 for i in {1..5}
   do
-    mpirun -n $i python mpi_rand_walk.py >> mpi_loop.out
+    mpirun -n "$i" python q2.py >> q2.out
   done
